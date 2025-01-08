@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm passionate about building efficient, scalable,
 
 ## 🔗 **Connect with Me**
 
-- [LinkedIn](https://www.linkedin.com/in/harshilhirani0007/)  
+- [LinkedIn](https://www.linkedin.com/in/harshilhirani007/)  
 
 
 ---

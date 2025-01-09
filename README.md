@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I'm passionate about building efficient, scalable,
 ## 📚 **About Me**
 
 - 💻 I'm a full-stack developer specializing in the MERN stack and .NET technologies.
-- 📈 I'm also exploring software engineering principles and swing trading.
 - 🔧 Always eager to learn and solve real-world problems with code.
 
 ---

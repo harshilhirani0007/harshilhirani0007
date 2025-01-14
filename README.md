@@ -22,12 +22,6 @@ Welcome to my GitHub profile! I'm passionate about building efficient, scalable,
 
 ---
 
-## 📈 **GitHub Stats**
-
-![Harshil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshilHirani&show_icons=true&theme=radical)
-
----
-
 ## 🔗 **Connect with Me**
 
 - [LinkedIn](https://www.linkedin.com/in/harshilhirani007/)  

@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Harshil Hirani
 
-### MERN Stack Developer | ASP.NET Developer | .NET Core Developer
+### Full-Stack Developer | ASP.NET Developer | .NET Core Developer
 
 Welcome to my GitHub profile! I'm passionate about building efficient, scalable, and maintainable applications using various modern technologies.
 
@@ -9,15 +9,15 @@ Welcome to my GitHub profile! I'm passionate about building efficient, scalable,
 ## 🛠️ **Technologies & Tools**
 
 - **Languages:** Java, C#, JavaScript, HTML/CSS
-- **Frameworks:** .NET Core, ASP.NET, Express.js, React.js
+- **Frameworks:** .NET Core, ASP.NET
 - **Databases:** MongoDB, SQL Server, MySQL, Oracle
-- **Tools & Platforms:** Visual Studio Code, VS Code, Git, Docker
+- **Tools & Platforms:** Visual Studio , VS Code, Git
 
 ---
 
 ## 📚 **About Me**
 
-- 💻 I'm a full-stack developer specializing in the MERN stack and .NET technologies.
+- 💻 I'm a web developer specializing in .NET technologies.
 - 🔧 Always eager to learn and solve real-world problems with code.
 
 ---

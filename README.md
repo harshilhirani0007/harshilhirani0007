@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I'm passionate about building efficient, scalable,
 
 ## 🛠️ **Technologies & Tools**
 
-- **Languages:** Java, C#, JavaScript, HTML/CSS
+- **Languages:**  C#, JavaScript, HTML/CSS, Java
 - **Frameworks:** .NET Core, ASP.NET
-- **Databases:** MongoDB, SQL Server, MySQL, Oracle
+- **Databases:** SQL Server, MySQL, Oracle
 - **Tools & Platforms:** Visual Studio , VS Code, Git
 
 ---
